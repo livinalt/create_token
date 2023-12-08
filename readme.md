@@ -13,7 +13,7 @@ MivaToken (MVT) is an ERC-20 token built on the Ethereum blockchain and provides
 
 Token Name: MivaToken
 Symbol: MVT
-Decimals: 18
+Decimals: 10
 
 ## Deployment
 
